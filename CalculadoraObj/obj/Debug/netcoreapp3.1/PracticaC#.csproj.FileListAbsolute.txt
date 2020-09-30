@@ -1,0 +1,11 @@
+/home/katherine/Desktop/PracticaC#/bin/Debug/netcoreapp3.1/PracticaC#
+/home/katherine/Desktop/PracticaC#/bin/Debug/netcoreapp3.1/PracticaC#.deps.json
+/home/katherine/Desktop/PracticaC#/bin/Debug/netcoreapp3.1/PracticaC#.runtimeconfig.json
+/home/katherine/Desktop/PracticaC#/bin/Debug/netcoreapp3.1/PracticaC#.runtimeconfig.dev.json
+/home/katherine/Desktop/PracticaC#/bin/Debug/netcoreapp3.1/PracticaC#.dll
+/home/katherine/Desktop/PracticaC#/bin/Debug/netcoreapp3.1/PracticaC#.pdb
+/home/katherine/Desktop/PracticaC#/obj/Debug/netcoreapp3.1/PracticaC#.csprojAssemblyReference.cache
+/home/katherine/Desktop/PracticaC#/obj/Debug/netcoreapp3.1/PracticaC#.AssemblyInfoInputs.cache
+/home/katherine/Desktop/PracticaC#/obj/Debug/netcoreapp3.1/PracticaC#.AssemblyInfo.cs
+/home/katherine/Desktop/PracticaC#/obj/Debug/netcoreapp3.1/PracticaC#.dll
+/home/katherine/Desktop/PracticaC#/obj/Debug/netcoreapp3.1/PracticaC#.pdb
